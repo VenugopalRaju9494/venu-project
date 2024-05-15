@@ -1,7 +1,8 @@
 <html>
 <body>
-<h1><font color='green'> Welcome to Revanth IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Revanth Reddy frnds IT - Software Training Institute <font></h1>
 
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Revanth frnd's IT Training Schedules</a>
   
   <h2> Call Us : +91 7973775836 </h2>
   
